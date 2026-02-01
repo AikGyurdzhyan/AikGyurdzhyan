@@ -33,7 +33,11 @@ ___
        height="32" title="Draw.io" />
 </p>
 
-* **Анализ и проектирование:** SRS, BPMN, UML, ERD, DFD, SQL, REST / SOAP API, Agile, Scrum.
+- **Требования**: SRS, BRD, User Story, Use Case
+- **Моделирование**: BPMN, UML, ERD, DFD  
+- **База данных**: SQL, нормализация (3НФ), интеграции REST, SOAP
+- **Agile-практики:**: Scrum, Kanban
+
 ___
 
 ## Portfolio
