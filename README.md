@@ -11,7 +11,8 @@ ___
     <Figma>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" title="Figma" style="margin: 0 14px;" />
     <Miro>
-  <img src="https://cdn.simpleicons.org/miro/050038" height="30" title="Miro" style="margin: 0 14px;" />
+  <img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo.png"
+       height="30" title="Miro" style="margin: 0 14px;" />
     <Draw.io>
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="30" title="Draw.io" style="margin: 0 14px;" />
     <Postman>
