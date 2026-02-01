@@ -19,7 +19,7 @@ ___
     <Swagger>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" title="Swagger" style="margin: 0 14px;" />
   <PostgreSQL>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="35" title="PostgreSQL" style="margin: 0 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="30" title="PostgreSQL" style="margin: 0 14px;" />
 </p>
 
 * **Анализ и проектирование:** SRS, BPMN, UML, ERD, DFD, SQL, REST / SOAP API, Agile, Scrum.
