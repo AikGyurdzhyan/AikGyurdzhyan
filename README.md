@@ -5,10 +5,11 @@
 ___
 ## Контакты 
 <Telegram>
- <a href="https://t.me/aik_g" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-         height="30" title="Telegram @aik_g" />
-  </a>
+<p align="left">
+  <a href="https://t.me/aik_g">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"
+         height="32" title="Telegram @aik_g" />
+</p>
 
 ___
 
@@ -19,8 +20,8 @@ ___
     <Figma>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" title="Figma" style="margin: 0 14px;" />
     <Miro>
-  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038"
-       height="30" title="Miro" style="margin: 0 14px;" />
+  <img src="https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=050038"
+       height="32" title="Miro" />
     <Postman>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" title="Postman" style="margin: 0 14px;" />
     <Swagger>
@@ -28,7 +29,8 @@ ___
   <PostgreSQL>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="30" title="PostgreSQL" style="margin: 0 14px;" />
   <Draw.io>
- <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" height="30" title="Draw.io" style="margin: 0 14px;" />    
+ <img src="https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white"
+       height="32" title="Draw.io" />
 </p>
 
 * **Анализ и проектирование:** SRS, BPMN, UML, ERD, DFD, SQL, REST / SOAP API, Agile, Scrum.
