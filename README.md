@@ -5,7 +5,16 @@
 #### Активно развиваюсь в области системного анализа: самостоятельно изучаю новые темы и инструменты, читаю профильные статьи и обучающие материалы, применяю знания на практике в проектах, представленных в портфолио. Нацелен на профессиональный рост и участие в развитии сложных IT-продуктов.
 ___
 ## Skills
-* **Инструменты:** Figma, Miro, Draw.io, Postman, Swagger.
+* **Инструменты:** ## 🛠 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" />
+  <img src="https://cdn.simpleicons.org/miro/050038" height="40" title="Miro" />
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="40" title="Draw.io" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" title="Swagger" />
+</p>
+
 * **Анализ и проектирование:** SRS, BPMN, UML, ERD, DFD, SQL, REST / SOAP API, Agile, Scrum.
 ___
 
