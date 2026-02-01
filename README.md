@@ -5,7 +5,12 @@
 #### Активно развиваюсь в области системного анализа: самостоятельно изучаю новые темы и инструменты, читаю профильные статьи и обучающие материалы, применяю знания на практике в проектах, представленных в портфолио. Нацелен на профессиональный рост и участие в развитии сложных IT-продуктов.
 ___
 ## Skills
-* **Инструменты:** ![Figma logo]([file:///C:/Users/%D0%90%D0%B9%D0%BA/Downloads/figma-color.svg](https://simpleicons.org/icons/figma.svg)  "Figma"), Miro, Draw.io, Postman, Swagger.
+* **Инструменты:** {
+		"title": "Convex",
+		"hex": "EE342F",
+		"source": "https://www.convex.dev/brand",
+		"guidelines": "https://www.convex.dev/brand"
+	}, Miro, Draw.io, Postman, Swagger.
 * **Анализ и проектирование:** SRS, BPMN, UML, ERD, DFD, SQL, REST / SOAP API, Agile, Scrum.
 ___
 
