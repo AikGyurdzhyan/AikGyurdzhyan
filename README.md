@@ -6,19 +6,13 @@ ___
 ## Связь со мной 📱
 <Telegram>
 <p align="left">
-  <a href="https://t.me/aik_g" title="Telegram @aik_g" target="_blank">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-    height="32" 
-    style="background-color:#26A5E4;border-radius:50%;padding:6px;"
-  />
-    <a href="https://wa.me/79897581111" title="WhatsApp" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366"
-       height="32" />
-</a>
+  <a href="https://t.me/aik_g" title="Telegram @aik_g" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="32" hspace="30" style="background-color:#26A5E4;border-radius:50%;padding:6px;" /></a>
+<WhatsApp>
+  <a href="https://wa.me/79897581111" title="WhatsApp" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" hspace="6" /></a>
+  </p>
 
-
-</p>
 
 ___
 
