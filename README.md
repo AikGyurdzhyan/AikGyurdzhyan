@@ -50,3 +50,4 @@ ___
 |---|---|---|
 | [Требования и прототип для приложения Stets Home](https://github.com/AikGyurdzhyan/Portfolio/tree/main/Stets%20Home) | Определить и формализовать требования для управления умными устройствами; разработать интерактивный прототип и провести демо | User Story Map, Miro, Figma, Drawio, Use Case, ПМИ, DFD |
 | [ПМИ и руководство пользователя для сайта «Капсула»](https://github.com/AikGyurdzhyan/Portfolio/tree/main/Capsula) | Разработать программу и методику испытаний (ПМИ) и User Guide для версии 2.2 | ПМИ, User Guide, Jira, Confluence |
+| [API для сервиса Otium](https://github.com/AikGyurdzhyan/Portfolio/tree/main/Otium) | Добавить сервис «ТВ-каналы» с функциональностью, аналогичной фильмам и сериалам | API, Swagger, REST, Postman|
